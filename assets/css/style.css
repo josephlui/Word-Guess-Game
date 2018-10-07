@@ -2,7 +2,21 @@ img{
     margin: auto;    
     display: block;
 } 
-h2, #answer {
+h2,h6, #answer {
     margin: 0,auto; 
     text-align: center;
 }
+
+.heightSize {
+    height: 80px;
+}
+
+.container {
+    padding: 30px;
+   
+}
+
+div {
+    padding-top: 10px;
+}
+
